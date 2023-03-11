@@ -1,0 +1,7 @@
+EquipmentID,Vendor,EquipmentType,Model
+1,ABB,Meter,E-120
+2,ABB,Meter,E-130
+3,ABB,Turbine,TB-5
+4,GE,Motor,P-51
+5,GE,Seperator,311
+6,GE,Compressor,2000

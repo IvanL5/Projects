@@ -1,0 +1,26 @@
+MaintenanceID,OperatorID,EquipmentID,MaintenanceType,Duration,MaintenanceDate,MaintenanceLocation
+1,2,1,Preventative,5,2022-01-16,Site 2
+2,7,4,Preventative,6,2022-06-20,Site 3
+3,6,4,Preventative,7,2022-09-11,Site 1
+4,5,5,Corrective,2,2022-08-10,Site 1
+5,7,1,Corrective,7,2022-11-03,Site 3
+6,5,4,Preventative,3,2022-04-04,Site 1
+7,2,4,Preventative,5,2022-04-09,Site 1
+8,2,5,Corrective,3,2022-02-04,Site 3
+9,6,1,Preventative,6,2022-03-25,Site 1
+10,5,4,Preventative,2,2022-10-18,Site 3
+11,5,4,Preventative,1,2022-08-23,Site 2
+12,4,5,Preventative,3,2022-10-27,Site 2
+13,5,4,Preventative,4,2022-01-19,Site 3
+14,6,1,Preventative,7,2022-07-08,Site 3
+15,5,4,Corrective,7,2022-05-05,Site 1
+16,6,5,Corrective,5,2022-07-01,Site 1
+17,5,5,Preventative,2,2022-11-28,Site 1
+18,5,1,Preventative,4,2022-07-20,Site 2
+19,1,4,Preventative,9,2022-09-06,Site 3
+20,7,4,Preventative,3,2022-07-25,Site 1
+21,6,4,Preventative,9,2022-03-26,Site 2
+22,4,1,Corrective,3,2022-07-24,Site 1
+23,6,4,Preventative,6,2022-05-15,Site 1
+24,5,4,Preventative,2,2022-08-19,Site 3
+25,1,6,Preventative,7,2022-03-16,Site 1
