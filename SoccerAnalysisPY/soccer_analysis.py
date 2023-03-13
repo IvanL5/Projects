@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 # Loading the Data
 print("\n*Loading the Data*")
 
-df = pd.read_csv('C:\\Users\\ivanl\\Documents\\DATA 211\\Data\\Data.csv')
+df = pd.read_csv('Data.csv')
 
 print("\nData Shape:", df.shape)
 
